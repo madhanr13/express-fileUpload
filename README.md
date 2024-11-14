@@ -19,10 +19,12 @@ This is a simple file upload system built using the Express framework, Multer pa
 To get started with this project, follow these steps:
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/madhanr13/express-fileUpload.git
    ```
 2. Navigate to the project directory: Change into the project directory:
+
    ```
    cd express-fileUpload
    ```
